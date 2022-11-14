@@ -6,7 +6,7 @@
 
 <p></p>
 
-<img style="right: 0; width: 200px; height: 200px;" src="gopher.jpg"/>
+<img align="right" style="width: 200px; height: 200px;" src="gopher.jpg"/>
 
 <h3>Languages:</h3>
 
@@ -16,7 +16,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-<h3>My top languages:</h3>
+<h3>My top:</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaRotten&layout=compact)](https://github.com/ToshaRotten/github-readme-stats)
 
