@@ -6,7 +6,7 @@
 
 <p></p>
 
-<img src="gopher.jpg"/>
+<img style="float:right; width: 200px; height: 200px;" src="gopher.jpg"/>
 
 <h3>Languages:</h3>
 
