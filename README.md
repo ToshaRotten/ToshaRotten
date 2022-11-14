@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm Anton
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="69" height="20" role="img" aria-label="Go/Golang"><title>Go/Golang</title><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="69" height="20" rx="3" fill="#fff"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#007ec6"/><rect x="0" width="69" height="20" fill="#007ec6"/><rect width="69" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><text aria-hidden="true" x="345" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="590">Go/Golang</text><text x="345" y="140" transform="scale(.1)" fill="#fff" textLength="590">Go/Golang</text></g></svg>
 
+[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Golang+developer)](https://git.io/typing-svg)
