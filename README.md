@@ -4,7 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Golang+developer)](https://git.io/typing-svg)
 
+<p></p>
 
+
+<h3>Skills:</h3>
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -13,5 +16,13 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaRotten&layout=compact)](https://github.com/ToshaRotten/github-readme-stats)
+
+<h3>Contacts:</h3>
+<ul>
+    <li>VK: https://vk.com/im?sel=436640806</li>
+</ul>
+
+<h3>Codewars</h3>
 [![codewars](https://www.codewars.com/users/ToshaRotten/badges/large)](https://www.codewars.com/users/ToshaRotten)   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
