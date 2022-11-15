@@ -35,7 +35,7 @@
 
 <h3>Contacts:</h3>
 <ul>
-    <li>VK: https://vk.com/im?sel=436640806</li>
+    <li>VK: https://vk.com/tosha_rotten</li>
 </ul>
 
 <h3>Codewars:</h3>
