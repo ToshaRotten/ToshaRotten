@@ -18,7 +18,7 @@
 
 <h3>My top:</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaRotten&layout=compact)](https://github.com/ToshaRotten/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ToshaRotten&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
